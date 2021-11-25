@@ -1,4 +1,4 @@
-# AdvProg-milestone2
+# Advanced Proggraming milestone 2
 made by: omer abarzel, or tovy
 
 ## Summary
